@@ -6,6 +6,7 @@ void main()
 {
 	setlocale(LC_ALL, "Rus");
 	float a = 0, S = 0.0;
+
 	printf("¬ведите значение стороны квадрата а: ");
 	scanf("%f", &a);
 
